@@ -1,5 +1,4 @@
 {
-    "deepscan.ignoreConfirmWarning": true,
     "files.exclude": {
         "**/.git": true,
         "**/.svn": true,
